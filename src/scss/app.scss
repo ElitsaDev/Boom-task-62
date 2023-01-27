@@ -30,6 +30,6 @@ html {
 }
 
 body {
-  color: var(--text-color);
-  background-color: var(--body-color);
+  color: $text-color;
+  background-color: $body-color;
 }
